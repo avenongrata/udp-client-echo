@@ -1,2 +1,2 @@
 # udp-client-echo
-Simple USP client echo
+Simple UDP client echo
